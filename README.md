@@ -1,6 +1,7 @@
 # OlympicShareStatistic
 Medal Share Development and Home Advantage per Country at Olympic Games
 
+```
 Country              | Home-share (%)  | Abroad-share(%) | Factor (Ratio)
 ---------------------------------------------------------------------------
 Greece               |          18.63% |           0.46% |        40.13
@@ -28,5 +29,5 @@ Italy                |           5.67% |           4.25% |         1.33
 West Germany         |           6.67% |           5.92% |         1.13
 Finland              |           4.18% |           4.48% |         0.93
 Yugoslavia           |           0.85% |           1.12% |         0.76
-
+```
 Average advantage:  3.894400000000001
