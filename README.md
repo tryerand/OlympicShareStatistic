@@ -1,5 +1,5 @@
 # OlympicShareStatistic
-Medal Share Development and Home Advantage per Country at Olympic Games.
+Medal Share Development and Home Advantage per each Country that ever hosted an edition of the Olympic Games.
 In the table, the average medal share of the countries at home over all Olympics, the average abroad-share, and the ratio Home/Abroad. See the plots for the medal shares per country and year.
 
 ```
